@@ -1,5 +1,6 @@
-# Muse 新手指南
+> [English version](README_EN.md)
 
+# Muse 新手指南
 > 一份写给刚刚接触 Muse 的朋友的入门指南：先搞懂它是什么，再做好注册后 48 小时内最重要的一件事。
 
 ## 一、Muse 是什么？
